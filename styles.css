@@ -19,7 +19,7 @@ h1 {
   letter-spacing: 0.02em;
   line-height: 1.07;
   text-align: center;
-  padding-top: 84px;
+  padding-top: 68px;
 }
 
 .title-header2 {
@@ -38,7 +38,7 @@ h1 {
   font-size: 20px;
   letter-spacing: 0.02em;
   line-height: 1.5;
-  text-align: center;
+  text-align: left;
   color: #2e2f42;
 }
 body {
@@ -58,9 +58,9 @@ body {
   border: none;
   padding: 16px 32px;
   cursor: pointer;
-  margin-top: 55px;
+  margin-top: 48px;
   border-radius: 4px;
-  margin-bottom: 169px;
+  margin-bottom: 68px;
 }
 
 .button-text:hover {
@@ -126,7 +126,7 @@ a:hover {
   text-align: center;
 }
 .section2 {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
   display: flex;
 
   align-items: center;
@@ -149,7 +149,7 @@ a:hover {
   background-color: #f4f4fd;
 }
 .section4 {
-  background-color: #e5e5e5;
+  background-color: #ffffff;
 }
 .footer {
   color: #f4f4fd;
@@ -163,7 +163,7 @@ a:hover {
   max-width: 264px;
 }
 .container {
-  max-width: 1158px;
+  max-width: 1440px;
   margin: 0 auto;
 }
 
@@ -208,7 +208,8 @@ img {
   padding-left: 156px;
   padding-right: 156px;
   justify-content: space-between;
-  background-color: #e7e9fc;
+  background-color: #ffffff;
+  border-bottom: #e7e9fc 1px solid;
 }
 .class1 {
   gap: 76px;
@@ -222,6 +223,5 @@ section {
   padding: 120px 0;
 }
 .portfolio-list li {
-  background-color: #e7e9fc;
-  border-bottom: #2e2f42 1px solid;
+  background-color: #ffffff;
 }
